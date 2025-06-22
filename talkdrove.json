@@ -10,7 +10,7 @@
       "SESSION_ID": {
         "description": "Put your SESSION_ID here.get session id from here, https://inconnu-boy-tech-bot.onrender.com/pair",
         "required": true,
-        "value":"add your session"
+        "value":"INCONNU~XD~ZFxVxahZ#nr2DdmttNY-b7Ku7t4wX8hlaevvFrMkLmvsqV1FxmLU"
       },
       "PREFIX": {
         "description": "Bot command prefix, (e.g, . , ! @ etc",
@@ -21,7 +21,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -34,7 +34,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "554488138425"
+      "value": "237658222828"
 
     }, 
 
